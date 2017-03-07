@@ -1,0 +1,13 @@
+2016.12.31attr不要 toggle巡回特效 this用e.srcelement//call 
+1.7echat github args  callee
+1.14css定位属性（position,left），自身(font)，文本(text-indent)，其他（vertical）
+1.15<link rel="stylesheet" type="text/css" href="css/basic.css"/>  
+<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+2.25触发自动创建事件对象 foucs,blur,mouseenter/leave无冒泡 阻止冒泡默认动作return false（web小樱桃5-9，重点58）
+2.26面试必问：数组重组 数据判断json与js对象：键名是否加引号 递归：自己调用自己迭代：巡回枚举【谷歌访问助手】
+3.2$str=>>>mark ... mark;echo $str;   \n \ "+"只是加法"."才是连接符 unset() is_(null)...&$地址传递 
+js数长度（不区分中英文） 
+3.5hbuilder快捷键 jqury1.9以上$(document).ajax 以下$.ajax 不好好学习扣100！alert()!!! xwen(内网github) ajax
+3.7 自学能力 pull下载 add -A暂存区 git commit -m "3"提交到3 git push服务器上传 
+ssh 右边（记事本）粘贴 激活 git commit->:wq!->
+atom插件（webstorm） 赛风 谷歌访问助手
